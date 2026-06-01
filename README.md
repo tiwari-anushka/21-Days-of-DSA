@@ -8,3 +8,4 @@ A 21-day journey to master Data Structures and Algorithms, build daily coding co
 |---|---|---|---|
 | Day 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [Solution](./day01/twosum.py) |
 | Day 2 | [2.Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | LeetCode | [Solution](./day02/removeLinkedlistElements.py) |
+| Day 3 | coming soon |...| ...|
