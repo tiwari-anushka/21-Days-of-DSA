@@ -11,4 +11,6 @@ A 21-day journey to master Data Structures and Algorithms, build daily coding co
 | Day 3 | [3. Remove Duplicates From sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | LeetCode | [Solution](./day03/RemoveDuplicatesFromSortedList.py)|
 | Day 4 | [4. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | LeetCode | [Solution](./day04/DuplicateZeros.py)|
 | Day 5 | [5. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| LeetCode |[Solution](./day05/RemoveDuplicatesFromSortedArray.py)|
-| Day 6 | soon... |...|...|
+| Day 6 | [6. 3Sum](https://leetcode.com/problems/3sum/) | LeetCode | [Solution](./day06/3sum.py)|
+| Day 7 | [7. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)| LeetCode | [solution](./day07/3sumClosest.py)|
+| Day 8 |...|...|soon...|
