@@ -13,4 +13,6 @@ A 21-day journey to master Data Structures and Algorithms, build daily coding co
 | Day 5 | [5. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| LeetCode |[Solution](./day05/RemoveDuplicatesFromSortedArray.py)|
 | Day 6 | [6. 3Sum](https://leetcode.com/problems/3sum/) | LeetCode | [Solution](./day06/3sum.py)|
 | Day 7 | [7. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)| LeetCode | [solution](./day07/3sumClosest.py)|
-| Day 8 |...|...|soon...|
+| Day 8 | [8. Subarray Product Less Than Target](https://leetcode.com/problems/subarray-product-less-than-k/)| LeetCode |[sol](./day08/SubarrayProductLessThanK.py)|
+| Day 9 | [9.Dutch National Flag Problem ](https://coderbyte.com/algorithm/dutch-national-flag-sorting-problem)| Code Byte | [sol](./day09/DutchNationalFlagProblem.py)|
+| day 10 |...|...|soon...|
