@@ -21,7 +21,7 @@ The problem asks for **contiguous subarrays**, and all elements in `nums` are st
 
 4. **Counting Subarrays (The Math Trick):**
    For any valid window bounded between `left` and `right`, the number of **new valid contiguous subarrays** ending exactly at index `right` is equal to the size of the window:
-   $$\text{window\_size} = \text{right} - \text{left} + 1$$
+   $$\text{Window Size} = \text{right} - \text{left} + 1$$
 
 ### Visual Walkthrough
 For `nums = [10, 5, 2]`, `k = 100`:
