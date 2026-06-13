@@ -15,4 +15,6 @@ A 21-day journey to master Data Structures and Algorithms, build daily coding co
 | Day 7 | [7. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)| LeetCode | [solution](./day07/3sumClosest.py)|
 | Day 8 | [8. Subarray Product Less Than Target](https://leetcode.com/problems/subarray-product-less-than-k/)| LeetCode |[sol](./day08/SubarrayProductLessThanK.py)|
 | Day 9 | [9.Dutch National Flag Problem ](https://coderbyte.com/algorithm/dutch-national-flag-sorting-problem)| Code Byte | [sol](./day09/DutchNationalFlagSortingProblem.py)|
-| day 10 |...|...|soon...|
+| Day 10 | [10. Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/)| LeetCode |[Sol](./day10/LinkedListCycle.py)|
+| Day 11 | [11. Start of Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle-ii/)| LeetCode | [sol](./day11/LinkedListCycle2.py)|
+| Day 12 |...|...|sooon...|
