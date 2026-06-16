@@ -19,7 +19,7 @@ A 21-day journey to master Data Structures and Algorithms, build daily coding co
 | Day 11 | [11. Start of Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle-ii/)| LeetCode | [sol](./day11/LinkedListCycle2.py)|
 | Day 12 | [12. Happy Number](https://leetcode.com/problems/happy-number/)| LeetCode | [Solution](./day12/HappyNumber.py)|
 | Day 13 | [13. Middle of the LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)| LeetCode | [Solution 1](./day13/Fast&Slow.py) [Solution 2](./day13/Count&Traverse.py)|
-| Day 14 | [14.Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| LeetCode | [Solution](./day14/FruitsIntoBasket)|
+| Day 14 | [14.Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| LeetCode | [Solution](./day14/FruitsIntoBasket.py)|
 | Day 15 | [15.No-repeat Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| LeetCode | [Solution](./day15/NoRepeatSubstring.py)|
 | Day 16 | [16.Longest Substring with Same Letters after Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| LeetCode | [Solution](./day16/LongestRepeatingCharater.py)|
 | Day 17 | [17.Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/)| LeetCode | [Solution](./day17/MaxConescutiveOnes.py)|
