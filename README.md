@@ -22,5 +22,5 @@ A 21-day journey to master Data Structures and Algorithms, build daily coding co
 | Day 14 | [14.Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| LeetCode | [Solution](./day14/FruitsIntoBasket.py)|
 | Day 15 | [15.No-repeat Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| LeetCode | [Solution](./day15/NoRepeatSubstring.py)|
 | Day 16 | [16.Longest Substring with Same Letters after Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| LeetCode | [Solution](./day16/LongestRepetingCharReplacement.py)|
-| Day 17 | [17.Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/)| LeetCode | [Solution](./day17/MaxConescutiveOnes.py)|
+| Day 17 | [17.Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/)| LeetCode | [Solution](./day17/MaxConsecutiveOnes.py)|
 | Day 18 | soon...|...|...|
