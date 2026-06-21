@@ -2,7 +2,6 @@ class Solution:
     def findDuplicates(self, nums: List[int]) -> int:
         i=0
         n=len(nums)
-        ans=[]
         while i<n:
             current_index=nums[i]-1
             if nums[i]!=nums[current_index]:
@@ -11,6 +10,5 @@ class Solution:
                 i=i+1
         for i in range(n):
             if nums[i]!=i+1:
-                ans.append(nums[i])
-        return ans
+                return nums[i]
                 
