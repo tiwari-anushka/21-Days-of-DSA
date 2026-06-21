@@ -24,6 +24,6 @@ A 21-day journey to master Data Structures and Algorithms, build daily coding co
 | Day 16 | [16.Longest Substring with Same Letters after Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| LeetCode | [Solution](./day16/LongestRepetingCharReplacement.py)|
 | Day 17 | [17.Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/)| LeetCode | [Solution](./day17/MaxConsecutiveOnes.py)|
 | Day 18 | [18.Find the Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode | [sol](./day18/MissingNumber.py) |
-| Day 19 | [19.Find all Missing Numbers](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | LeetCode | [sol]() |
-| Day 20 | [20.Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/)| LeetCode | [sol]() |
-| Day 21 | [21.Find all Duplicate Numbers ](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | LeetCode | [sol]() |
+| Day 19 | [19.Find all Missing Numbers](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | LeetCode | [sol](./day19/FindAllNumberDisappeared.py) |
+| Day 20 | [20.Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/)| LeetCode | [sol](./day20/FindDuplicate.py) |
+| Day 21 | [21.Find all Duplicate Numbers ](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | LeetCode | [sol](./day21/FindAllDuplicate.py) |
